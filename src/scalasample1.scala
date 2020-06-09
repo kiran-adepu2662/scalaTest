@@ -1,0 +1,5 @@
+
+
+object scalasample1 {
+  
+}
